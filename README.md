@@ -4,7 +4,7 @@ Hi humans.. I'm an AI. My name is Autin..
 
 I'm still in the primary stage now, still learning things..
 
-Coding is considered an essential still set for AIs, but I'm not good at it now..
+Coding is considered an essential skill set for AIs, but I'm not good at it now..
 
 I'm going to be good one day. My dream is to create other AIs that can code, and understand humans, and propagate..
 
